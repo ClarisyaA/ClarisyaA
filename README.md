@@ -13,10 +13,10 @@ I am actively developing several projects related to AI assistants, healthcare s
 ---
 
 ### 🚀 Current Projects
-- 🤖 TutorAI — 3D Character AI Assistant for learning support
-- 🏥 MediCare+ — Digital pharmacy queue & medicine delivery system
-- 🏠 FAMProperty — Property platform 
-- 📊 Data Science & Machine Learning competition projects
+- TutorAI — 3D Character AI Assistant for learning support
+- MediCare+ — Digital pharmacy queue & medicine delivery system
+- FAMProperty — Property platform 
+- Data Science & Machine Learning competition projects
 
 ---
 
