@@ -1,6 +1,6 @@
 # Clarisya Adeline
 
-Informatics Engineering @ Universitas Padjadjaran. I build things at the intersection of AI, data, and the web — mostly because I can't figure out how something works until I've actually made it. Projects range from academic coursework and competition entries to internship work and random ideas I couldn't leave alone.
+Informatics Engineering @ Universitas Padjadjaran. I build things at the intersection of AI, data, and the web - mostly because I can't figure out how something works until I've actually made it. Projects range from academic coursework and competition entries to internship work and random ideas I couldn't leave alone.
 
 Currently digging into AI systems, data engineering, and scalable backend architecture. Open to internships, collaborations, and project-based learning.
 
@@ -39,10 +39,10 @@ Currently digging into AI systems, data engineering, and scalable backend archit
 
 | Project | Description |
 |---|---|
-| **TemanTumbuh** | AI-powered mental wellness app — mood tracking, Safe Diary, chatbot, insight dashboard |
+| **TemanTumbuh** | AI-powered mental wellness app - mood tracking, Safe Diary, chatbot, insight dashboard |
 | **RobotWasit** | Computer vision referee robot using OpenCV, MediaPipe, Arduino, and PySerial |
 | **Home Credit Risk Prediction** | Credit risk ML model with Power BI dashboard |
-| **AddicX** | UI/UX case study for addiction awareness — GEMASTIK Competition |
+| **AddicX** | UI/UX case study for addiction awareness - GEMASTIK Competition |
 | **TutorAI** | 3D character AI learning assistant with RAG support |
 
 ---
